@@ -1,2 +1,2 @@
 # Liksi
-Maliksing Balita para sa mga sira ang attention span
+Maliksing Balita para sa mga sira ang Attention Span
